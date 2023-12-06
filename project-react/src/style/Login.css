@@ -1,0 +1,44 @@
+.iconusers {
+    display: flex !important; 
+    width: 2% !important;
+    height: 1% !important;
+    margin-right: 1% !important;
+}
+
+.Container-login {
+    padding-top: 12.6%;
+    padding-bottom: 12.6%;
+}
+.text {
+    display: flex;
+    font-size: large !important;
+    font-style: italic;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+.logologin {
+    height: 100px;
+    padding-bottom: 30px;
+    
+}
+.textinput {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    margin-bottom: 20px !important;
+    align-items: center !important;
+}
+.form-control {
+    display: flex !important;
+    width: 30% !important;
+}
+.btn-outline-secondary {
+    justify-content: center !important;
+    width: 31% !important;
+    background-color: black !important;
+    color: white !important;
+    border-radius: 24px !important;
+}
+.button {
+    padding-left: 3% !important;
+}

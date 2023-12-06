@@ -1,0 +1,49 @@
+.Container-Users {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.userslist {
+    width: 80%;
+}
+
+.userslist h2 {
+    text-align: center;
+}
+
+.userslist ul {
+    padding-left: 0;
+}
+
+.userslist .data {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px 0;
+}
+.username-data {
+    width: 33% !important;
+    display: flex;
+    overflow: hidden !important;
+    justify-content: left;
+    padding-left: 2rem;
+}
+.email-data {
+    width: 33% !important;
+    overflow: hidden !important;
+    
+}
+.user-actions {
+    width: 33% !important;
+    overflow: hidden !important;
+    display: flex;
+    gap: 5px;
+    justify-content: right;
+    padding-right: 2rem;
+}
+

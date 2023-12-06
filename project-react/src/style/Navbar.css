@@ -1,0 +1,32 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    height: 100px;
+    background-color: black;
+  }
+.logo {
+    display: flex;
+    filter: invert(100%);
+    width: 100px; 
+      height: auto; 
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.button-navbar {
+    display: flex;
+    gap: 40px; 
+    justify-content: flex-end; 
+    margin-right: 2% !important;
+    width: 20% !important;
+  }
+  .button {
+    width: 100% !important;
+    border-radius: 24px !important;
+    background-color: white !important;
+  }
+  
+
+

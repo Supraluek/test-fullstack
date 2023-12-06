@@ -1,0 +1,75 @@
+.container-background {
+    background-color: ghostwhite;
+}
+.container-home-margin {
+    background-color: rgb(255, 255, 255);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.container-home-padding {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.imgbanner {
+    flex-direction: row;
+}
+
+.img-container {
+  position: relative;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  overflow: hidden;
+}
+.imgmargin {
+    margin-bottom: 10px;
+}
+
+.img-item{
+    float: left;
+    padding: 2em;
+} 
+
+img {
+    border-radius: 10px;
+}
+
+.button-update {
+    display: flex;
+}
+
+.location {
+    padding-top: 2%;
+}
+
+.input-border{
+    border-radius: 10px;
+
+}
+.width {
+    display: flex !important;
+    width: 40% !important;
+    margin: auto !important;
+}
+
+.button-select-delete {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px !important;
+}
+
+.form-control {
+    margin-right: 10px !important;
+    border-radius: 24px !important;
+}
+.shop-names {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+  
+
